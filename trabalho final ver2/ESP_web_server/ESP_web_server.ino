@@ -26,8 +26,8 @@ const int sensor_pin_light = 2;  /* Soil moisture sensor O/P pin */
 
 
 // Replace with your network credentials
-const char* ssid = "Leo";
-const char* password = "l12345678";
+const char* ssid = "your_ssdi";
+const char* password = "your_password";
 
 // Create AsyncWebServer object on port 80
 AsyncWebServer server(80);
